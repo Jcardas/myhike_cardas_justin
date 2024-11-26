@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.3 32.34">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .01em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-5 {
+        font-family: GillSans-Bold, 'Gill Sans';
+        font-size: 10.93px;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #231f20;
+        stroke-linecap: square;
+        stroke-miterlimit: 10;
+        stroke-width: .75px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        fill: #2bb673;
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-5" transform="translate(0 27.85)"><tspan class="cls-4" x="0" y="0">T</tspan><tspan class="cls-3" x="8.08" y="0">r</tspan><tspan class="cls-1" x="13.31" y="0">a</tspan><tspan class="cls-2" x="19.7" y="0">il</tspan><tspan class="cls-7" x="26.39" y="0">MIX</tspan></text>
+  <g>
+    <path class="cls-2" d="M15.9,11.8c-1.01-1.16-1.95-2.37-2.86-3.61,0,0,.6.05.6.05-3.12,3.6-6.4,7.05-10.07,10.12,2.94-3.97,6.32-7.56,9.87-10.99.88,1.44,1.71,2.91,2.47,4.43h0Z"/>
+    <path class="cls-2" d="M27.73,11.21c-1.36-.66-2.7-1.36-4.02-2.1-.58-.8-1.18-1.6-1.75-2.41,0,0-1.66-2.37-1.66-2.37h.8c-3.09,4.79-6.29,9.52-9.8,14.03,2.87-5.22,6.08-10.23,9.41-15.17,1.08,1.66,2.47,3.81,3.49,5.49.66.36,2.51,1.76,3.53,2.53h0Z"/>
+    <path class="cls-2" d="M23.66,18.36c3.01-6.02,6.24-11.92,9.55-17.77,0,0,.33-.59.33-.59l.46.5,3.72,4-.06-.06,2.75,2.12c2.24,3.84,4.29,7.84,6.33,11.81-2.23-3.46-5.16-8.09-6.85-11.1-.06-.04-2.77-2.03-2.83-2.07-.03-.03-3.74-3.98-3.77-4.02,0,0,.79-.09.79-.09-3.35,5.83-6.77,11.63-10.41,17.28h0Z"/>
+    <polygon class="cls-6" points="9.19 12.4 10.69 13.17 12.3 12.4 13.36 12.79 15.51 11.21 13.36 7.98 9.19 12.4"/>
+    <polygon class="cls-6" points="20.7 4.07 17.37 9.13 18.31 10.1 19.91 9.03 22.07 10.1 23.93 8.86 20.7 4.07"/>
+    <polygon class="cls-6" points="33.64 .83 30.64 6.1 32.14 6.86 34.42 5.91 36.36 6.86 38.83 5.92 37.37 4.83 33.64 .83"/>
+  </g>
+</svg>
